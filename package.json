@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-reynoso/guia-hoteles.git"
+  },
+  "author": "Rodrigo Reynoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-reynoso/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/rodrigo-reynoso/guia-hoteles#readme"
+}
